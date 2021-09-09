@@ -12,7 +12,7 @@ if (process.argv.length !== 6
   console.log(`Usage:
   yarn record start-date end-date issue hours`);
   console.log(`Example:
-  // Record 8 hours on issue XXX-97 from Sep 9 2021 through Sep 21 2021
+  // Record 8 hours per day on issue XXX-97 from Sep 9 2021 through Sep 21 2021
   yarn record 2021-09-16 2021-09-21 XXX-97 8`);
 
   process.exit(0);
