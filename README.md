@@ -5,7 +5,7 @@ Quick script to enter work time in Jira via command line.
 2. Install packages with `yarn`
 
 ## Usage Example
-Do the following to record 8 hours per day on issue XXX-97 from Sep 9 2021 through Sep 21 2021. **Weekends will be ignored**
+Do the following to record 8 hours per day on issue XXX-97 from Sep 9 2021 through Sep 21 2021. **Weekends will be ignored.**
 ```
 yarn record 2021-09-16 2021-09-21 XXX-97 8
 ```
